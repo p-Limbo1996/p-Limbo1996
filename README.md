@@ -4,6 +4,7 @@ Hi, I'm Pouria Ghasemi 👋
 I'm a Tehran-based frontend developer specializing in **HTML, CSS, JavaScript, and React**. I'm also proficient in frameworks and libraries such as **Bootstrap, Tailwind, and Firebase**. My current focus is on enhancing user experiences through responsive design while continuously expanding my skill set.
 
 I'm passionate about collaborating on innovative frontend projects and taking on new challenges in web development. I value teamwork, as I believe it fosters great collaboration and leads to exceptional results. I'm always open to learning from others and contributing to a positive, productive team environment.
+![Coding GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3o2OXl3Nmk1OHhmb3lzczcxd2RlbzR1OWhxMzV5OGlhdTBnNTl1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1iNIkQBAwEkUuTpikf/giphy.gif)
 
 ## 🔭 Currently working on:
 - Enhancing responsive design techniques in my projects
