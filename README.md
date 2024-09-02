@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## About Me
+
+Hi, I'm **Pouria Ghasemi**, a Tehran-based frontend developer specializing in **HTML, CSS, JavaScript, and React**. I'm also proficient in frameworks and libraries such as **Bootstrap, Tailwind, and Firebase**. My current focus is on enhancing user experiences through responsive design while continuously expanding my skill set.
+
+I'm passionate about collaborating on innovative frontend projects and taking on new challenges in web development. I value teamwork, as I believe it fosters great collaboration and leads to exceptional results. I'm always open to learning from others and contributing to a positive, productive team environment.
+
+![Profile Image](link-to-your-image.jpg)
